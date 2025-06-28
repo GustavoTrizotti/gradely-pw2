@@ -23,7 +23,7 @@ Após a instalação das dependências, execute o comando:
 $ npm run dev
 ```
 
-## 🚀 Variáveis de Ambiente
+## ⚙️ Variáveis de Ambiente
 
 Para fins didáticos, esse é modelo de uso da variável de ambiente utilizada para desenvolvimento:
 
